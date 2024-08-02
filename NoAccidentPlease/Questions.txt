@@ -1,0 +1,14 @@
+This file is of no use just for the asking questions. 
+
+
+1. What is the expected output format for the flight paths? Should it be a list of coordinates, a visual representation, or something else?
+
+2. By looking at the problem, `Draw the path of all flights?`, I'm assuming to give coordinates as output
+
+3. Can 2 or more than stop at the same airport?
+
+4. Are there any specific constraints on the number of flights (N), the range of coordinates, or the desired distance between flight paths?
+
+5. Can I assume that the given coordinates are valid and distinct?
+
+6. Are there any specific edge cases or scenarios that I should consider?

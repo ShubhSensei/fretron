@@ -1,5 +1,6 @@
 1. Proportional Distribution
-site: https://stackoverflow.com/questions/50310833/algorithm-for-proportional-distribution
+site: https://stackoverflow.com/questions/50310833/algorithm-for-proportional-distribution (Not so relevant)
+site: https://www.sangakoo.com/en/unit/proportional-distributions-direct-and-inverse (somewhat relevant)
 
 2. can i delete an element in list at particular index in java
-site: https://www.geeksforgeeks.org/list-removeint-index-method-in-java-with-examples/
+site: https://www.geeksforgeeks.org/list-removeint-index-method-in-java-with-examples/ (Relevant to reverse the list)
