@@ -1,0 +1,5 @@
+1. Air traffic control algorithms
+site: https://onlinelibrary.wiley.com/doi/epdf/10.1002/atr.5670260205 (Not very relevant)
+
+2. Flight path optimization
+site: https://mathematicsinindustry.springeropen.com/articles/10.1186/s13362-020-00094-0 

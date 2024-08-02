@@ -1,0 +1,20 @@
+This file is for me like what's going in my mind, points to remember for me.
+
+
+According to the given question, I think
+
+1. We first need to find all possible paths for a 'special castle' on a chessboard filled with 'soldiers', given the castle's specific movement rules.
+
+2. The castle can only move forward, turn left after killing a soldier, and jump over soldiers.
+
+3. Draw a sample chessboard with soldiers and try to manually find possible paths for the castle.
+
+Points remember (isko pehle dekh lee)
+a. A matrix or a dictionary could be suitable.
+
+
+Potential Challenges
+- Handling edge cases (reaching the board's edge, no possible moves).
+- Ensuring correct movement and killing logic.
+- Optimizing the pathfinding algorithm for large boards.
+- Clearly representing the found paths.
