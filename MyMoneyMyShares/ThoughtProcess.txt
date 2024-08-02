@@ -1,0 +1,15 @@
+This file is for me like what's going in my mind, points to remember for me.
+
+Imp points
+1. Apples cannot be cut.
+2. The distribution should be as fair as possible.
+3. Read apple weights until a negative value is entered.
+
+Thought process
+1. It's a problem of simple maths. 
+
+2. I just have to calculate the total grams of apples and then 
+    the percentage shares of each individual
+    then get the proportionate of each person shares.
+
+3. Then find out the weight of apples in the list and print them.

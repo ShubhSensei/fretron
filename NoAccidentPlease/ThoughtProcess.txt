@@ -1,0 +1,20 @@
+This file is for me like what's going in my mind, points to remember for me.
+
+Imp points
+1. Only 3 different set of coordinates per Flight (The coordinates are the airport coordinates)
+2. There can be many flights
+3. All start from same place and time
+
+
+Thought process
+1. Maybe by looking at the code of previous flight agencies can help me to solve the problem. (But Let's use it if I don't find the solution)
+
+2. (While Drawing) Got it, the flights can not jump directly from one coordinate to another, it can go to (take) different coordinates but end up at its final coordinate(Airport)
+
+3. So I've to print all those coordinates which that flight took to reach the airports.
+
+4. Ok, understood the problem. Now the thing is how would I know if the flights are colliding or not.
+    Steps to solve the problem
+    a. See if the path is colliding or not
+    b. if Yes, then which other path to take?
+        - if No, then simply print that coordinates
