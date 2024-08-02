@@ -12,5 +12,7 @@ public class DistributeApples {
         }
 
         FindShare shares = new FindShare(input.totalWeightOfApples, input.listOfApples);
+        shares.findShare();
+        shares.printDistribution();
     }
 }
